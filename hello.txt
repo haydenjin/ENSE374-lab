@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 line only in master
-=======
 only in branch b
->>>>>>> b
